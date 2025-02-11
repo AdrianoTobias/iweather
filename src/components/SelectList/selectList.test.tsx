@@ -10,15 +10,19 @@ describe("Component: SelectList", () =>{
       { id: '2', name: 'Campo grande', latitude: 123, longitude: 456 }
     ]
 
+    const onPress = jest.fn();
+
     render(
       <SelectList 
         data={data}
         onChange={() =>{}}
-        onPress={() => {}}
+        onPress={onPress}
       />
     )
 
     const selectedCity = screen.getByText(/campo/i)
     fireEvent.press(selectedCity)
+
+    expect(onPress).toHaveBeenCalledTimes(1)
   })
 })
