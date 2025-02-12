@@ -1,207 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1739321175778" clover="3.2.0">
-  <project timestamp="1739321175779" name="All files">
-    <metrics statements="177" coveredstatements="154" conditionals="33" coveredconditionals="27" methods="53" coveredmethods="41" elements="263" coveredelements="222" complexity="0" loc="177" ncloc="177" packages="18" files="54" classes="54"/>
-    <package name="assets">
-      <metrics statements="48" coveredstatements="43" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="8"/>
-      <file name="background.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\background.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="1" type="stmt"/>
-      </file>
-      <file name="bg_clear_day.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_clear_day.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_clear_night.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_clear_night.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_cloudy_day.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_cloudy_day.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_cloudy_night.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_cloudy_night.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_rain_day.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_rain_day.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_rain_night.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_rain_night.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_snow_day.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_snow_day.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="bg_snow_night.png" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\bg_snow_night.png">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-      </file>
-      <file name="clear_day.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\clear_day.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="4" type="stmt"/>
-        <line num="4" count="7" type="stmt"/>
-        <line num="9" count="4" type="stmt"/>
-      </file>
-      <file name="clear_night.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\clear_night.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="cloudy_day.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\cloudy_day.svg">
-        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="cloudy_night.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\cloudy_night.svg">
-        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="drop.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\drop.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="logo.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\logo.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="4" count="3" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-      <file name="rain.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\rain.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-      <file name="rain_moment_day.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\rain_moment_day.svg">
-        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="snow_day.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\snow_day.svg">
-        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="snow_night.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\snow_night.svg">
-        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-      </file>
-      <file name="sun.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\sun.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-      <file name="thermometer.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\thermometer.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-      <file name="wind.svg" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\assets\wind.svg">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-    </package>
+<coverage generated="1739321995533" clover="3.2.0">
+  <project timestamp="1739321995533" name="All files">
+    <metrics statements="117" coveredstatements="99" conditionals="33" coveredconditionals="27" methods="40" coveredmethods="33" elements="190" coveredelements="159" complexity="0" loc="117" ncloc="117" packages="16" files="21" classes="21"/>
     <package name="components.Day">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Day\index.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="19" count="7" type="stmt"/>
         <line num="21" count="7" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Day\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="3" type="stmt"/>
-      </file>
     </package>
     <package name="components.Input">
-      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Input\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="11" count="8" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Input\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="3" type="stmt"/>
-      </file>
     </package>
     <package name="components.Loading">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Loading\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="7" count="3" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\Loading\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="1" type="stmt"/>
-      </file>
     </package>
     <package name="components.NextDays">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\NextDays\index.tsx">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="12" count="2" type="stmt"/>
         <line num="16" count="6" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\NextDays\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="2" type="stmt"/>
-      </file>
     </package>
     <package name="components.SelectList">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\SelectList\index.tsx">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
         <line num="17" count="6" type="stmt"/>
         <line num="29" count="2" type="stmt"/>
         <line num="32" count="1" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\SelectList\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="2" type="stmt"/>
-      </file>
     </package>
     <package name="components.WeatherDetails">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherDetails\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="26" count="1" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherDetails\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="1" type="stmt"/>
-      </file>
     </package>
     <package name="components.WeatherItem">
-      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherItem\index.tsx">
         <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="14" count="6" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherItem\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="2" type="stmt"/>
-      </file>
     </package>
     <package name="components.WeatherToday">
-      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherToday\index.tsx">
         <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="23" count="1" type="stmt"/>
@@ -209,10 +64,6 @@
         <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="29" count="1" type="stmt"/>
-      </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\components\WeatherToday\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="contexts">
@@ -269,7 +120,7 @@
       </file>
     </package>
     <package name="screens.Dashboard">
-      <metrics statements="32" coveredstatements="21" conditionals="9" coveredconditionals="7" methods="8" coveredmethods="4"/>
+      <metrics statements="31" coveredstatements="20" conditionals="9" coveredconditionals="7" methods="8" coveredmethods="4"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\screens\Dashboard\index.tsx">
         <metrics statements="31" coveredstatements="20" conditionals="9" coveredconditionals="7" methods="8" coveredmethods="4"/>
         <line num="17" count="4" type="stmt"/>
@@ -304,13 +155,9 @@
         <line num="70" count="3" type="stmt"/>
         <line num="73" count="1" type="stmt"/>
       </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\screens\Dashboard\styles.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="1" type="stmt"/>
-      </file>
     </package>
     <package name="screens.Search">
-      <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="2"/>
+      <metrics statements="14" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="2"/>
       <file name="index.tsx" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\screens\Search\index.tsx">
         <metrics statements="14" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="2"/>
         <line num="14" count="3" type="stmt"/>
@@ -327,11 +174,6 @@
         <line num="34" count="0" type="stmt"/>
         <line num="36" count="0" type="stmt"/>
         <line num="39" count="3" type="stmt"/>
-      </file>
-      <file name="styles.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\screens\Search\styles.ts">
-        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="services">
@@ -364,13 +206,6 @@
         <line num="78" count="2" type="stmt"/>
         <line num="80" count="2" type="stmt"/>
         <line num="90" count="2" type="stmt"/>
-      </file>
-    </package>
-    <package name="styles">
-      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="theme.ts" path="C:\Users\adriano.tobias\Desktop\MBA\04 - Desenvolvimento Mobile\06 - Testes\01 - Testes automatizados\iweather\src\styles\theme.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="6" type="stmt"/>
       </file>
     </package>
     <package name="utils">
